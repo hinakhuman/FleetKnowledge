@@ -1,7 +1,32 @@
 ﻿# FleetKnowledge
+## Overview 
+This project focuses on creating a whole eosystem on how the fleet management works. Its is a AI-powdered knowledge plateform for a fleet maintenance organization
 
+## Problem Statement
+Fleet management in itself is a huge system where different modules work like a connected dots. Fleet technicians spend valuable time searching through repiar manuals, maintenance procedures, historical work orders, and troubleshoot guides. Theis slows repiars and increase down time
+
+FleetKnowledge helps technicians find accurate answers in seconds using AI and enterprise search.
+
+## Target Users
+- Fleet Managers
+- Mechanics
+- Service Advisors
+- Dispatchers
+
+## MVP Features
+- Secure Login
+- Document Upload
+- AI-powered chat
+- Source Citation
+- Conversation History
+  
+## Technolog Stack
+- .Net Core
+- Clean Architecture
+- Github Actions
+- PostgresSQL
 The project was generated using the [Clean.Architecture.Solution.Template](https://github.com/jasontaylordev/CleanArchitecture) version 10.8.0.
-
+- 
 ## Build
 
 Run `dotnet build` to build the solution.
